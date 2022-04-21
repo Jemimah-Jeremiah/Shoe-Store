@@ -206,8 +206,8 @@
 
 .main-content h1 {
     font-size: 4rem;
-    background: #ff8177;
-    background-image: linear-gradient(to top, #ff0844 0%, #ffb199 100%);
+    background: #251a18;
+    background-image: linear-gradient(to top, #ef5455 0%, #2b3252 100%);
     background-size: 100%;
     -moz-background-clip: text;
     -webkit-background-clip: text;
@@ -218,7 +218,7 @@
 .main-content h2 {
     font-size: 4rem;
     background: #ff8177;
-    background-image: linear-gradient(to top, #b721ff 0%, #21d4fd 100%);
+    background-image: linear-gradient(to top, #ef5455 0%, #fad744 100%);
     background-size: 100%;
     -moz-background-clip: text;
     -webkit-background-clip: text;
@@ -343,7 +343,7 @@
 
 .services h1 {
     background: #ff8177;
-    background-image: linear-gradient( to right, #ff8177 0%, #ff867a 0%, #ff8c7f 21%, #cf556c 78%, #b12a5b 100%);
+    background-image: linear-gradient( to right, #ff8177 0%, #2b3252 0%, #2b3252 21%, #ef5455 78%, #fad744 100%);
     background-size: 100%;
     margin-bottom: 5rem;
     font-size: 2.5rem;
@@ -364,14 +364,14 @@
     height: 525px;
     width: 400px;
     border-radius: 4px;
-    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(17, 17, 17, 0.6) 100%), url(./images/pexels-harsch-shivam-2007647.jpg);
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(17, 17, 17, 0.6) 100%), url(images/Wall\ view.jpeg);
     background-size: cover;
     position: relative;
     color: #fff;
 }
 
 .services-card:nth-child(2) {
-    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(17, 17, 17, 0.6) 100%), url(./images/pexels-tima-miroshnichenko-6499172.jpg);
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(17, 17, 17, 0.6) 100%), url(./images/prints.jpeg);
 }
 
 .services h2 {
